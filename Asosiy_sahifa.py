@@ -39,7 +39,7 @@ if qidir:
 
 else: 
     st.subheader("Mening Kutubxonam 📚")
-    st.image("images/kutubxona.JPG")
+    st.image("images/kutubxona.jpg")
 
     st.subheader("Kutubxonamiz imkoniyatlari")
     st.write("* Bizda elektron kitoblardan vaqtinchalik foydalanish imkoniyati")
