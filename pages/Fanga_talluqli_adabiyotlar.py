@@ -15,18 +15,25 @@ if dasturlash:
     st.header("Dasturlash faniga oid adabiyotlar")
     st.write("Anvar Narzullayev")
 elif matimatika:
-    pass
+    st.header("Matematika faniga oid adabiyotlar")
+    st.write("Anvar Narzullayev")
 elif informatika:
-    pass
+    st.header("Informatika faniga oid adabiyotlar")
+    st.write("Anvar Narzullayev")
 elif geografiya:
-    pass
+    st.header("Geografiya faniga oid adabiyotlar")
+    st.write("Anvar Narzullayev")
 elif tarix:
-    pass
+    st.header("Tarix faniga oid adabiyotlar")
+    st.write("Anvar Narzullayev")
 elif falsafa:
-    pass
+    st.header("Falsafa faniga oid adabiyotlar")
+    st.write("Anvar Narzullayev")
 elif psixologiya:
-    pass
+    st.header("Psixologiya faniga oid adabiyotlar")
+    st.write("Anvar Narzullayev")
 elif metodika:
-    pass
+    st.header("Pedagogika faniga oid adabiyotlar")
+    st.write("Anvar Narzullayev")
 
 
