@@ -9,31 +9,25 @@ geografiya = col2.button("Geografiya" ,type="primary", use_container_width=10)
 tarix = col3.button("Tarix" ,type="primary", use_container_width=10)
 falsafa = col3.button("Falsafa" ,type="primary", use_container_width=10)
 psixologiya = col4.button("Psixologiya" ,type="primary", use_container_width=10)
-metodika = col4.button("Metodika" ,type="primary", use_container_width=10)
+metodika = col4.button("Pedagogika" ,type="primary", use_container_width=10)
 
 if dasturlash:
     st.header("Dasturlash faniga oid adabiyotlar")
     st.write("Anvar Narzullayev")
 elif matimatika:
     st.header("Matematika faniga oid adabiyotlar")
-    st.write("Anvar Narzullayev")
 elif informatika:
     st.header("Informatika faniga oid adabiyotlar")
-    st.write("Anvar Narzullayev")
 elif geografiya:
     st.header("Geografiya faniga oid adabiyotlar")
-    st.write("Anvar Narzullayev")
 elif tarix:
     st.header("Tarix faniga oid adabiyotlar")
-    st.write("Anvar Narzullayev")
 elif falsafa:
     st.header("Falsafa faniga oid adabiyotlar")
-    st.write("Anvar Narzullayev")
 elif psixologiya:
     st.header("Psixologiya faniga oid adabiyotlar")
-    st.write("Anvar Narzullayev")
 elif metodika:
     st.header("Pedagogika faniga oid adabiyotlar")
-    st.write("Anvar Narzullayev")
+    
 
 
